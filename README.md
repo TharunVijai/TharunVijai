@@ -1,43 +1,52 @@
 <h1 align="center">Hi 👋, I'm Tharun Vijay</h1>
-<h3 align="center">Full Stack Developer | Java + React</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%2B+React+Developer;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">💻 Full Stack Developer | Java + React</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science Graduate (2025)
 - 💻 Passionate about building full-stack web applications
-- ⚙️ Currently working on real-world projects using React & Spring Boot
-- 📍 Based in Chennai, India
+- ⚙️ Working with React, Spring Boot & MySQL
+- 📍 Chennai, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
-- Java (OOPS)
-- JavaScript
+<p align="center">
 
-### 🌐 Frontend
-- React.js
-- HTML5
-- CSS3
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java,js" />
 
-### ⚙️ Backend
-- Spring Boot
-- JDBC
-- Servlets
+<br/>
 
-### 🗄️ Database
-- MySQL
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<br/>
+
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
 
 ---
 
 ## 🔥 Projects
 
 ### 💰 Expense Tracker (Full Stack)
-- Built using React + Spring Boot + MySQL
+- React + Spring Boot + MySQL
 - Full CRUD operations
-- Category-based expense tracking
 - Dashboard with charts & reports
 
 🔗 https://github.com/TharunVijai/expense-tracker-fullstack
@@ -45,8 +54,8 @@
 ---
 
 ### 🌐 Portfolio Website
-- Responsive personal portfolio
-- Clean UI design
+- Responsive UI
+- Clean design
 
 🔗 https://github.com/TharunVijai/portfolio-web
 
@@ -66,32 +75,23 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: tharunrust@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/tharunvijay011  
-- 🌐 Portfolio: https://tharunvijay.vercel.app/
+<p align="center">
+  <a href="https://www.linkedin.com/in/tharunvijay011">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tharunrust@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-## 💡 What I'm Learning
-- Advanced React
-- Spring Boot REST APIs
-- Full Stack System Design
+## 💡 Currently Learning
+- Advanced React Patterns  
+- Spring Boot REST APIs  
+- Full Stack System Design  
 
 ---
 
-⭐ From Tharun Vijay
-
-<!--
-**TharunVijai/TharunVijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">⭐ From Tharun Vijay</p>
