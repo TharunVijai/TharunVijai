@@ -19,25 +19,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=java,js" />
-
-<br/>
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-
-<br/>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=spring" />
-
-<br/>
-
-<!-- Database -->
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+  <img src="https://skillicons.dev/icons?i=java,js" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
 </p>
 
 ---
