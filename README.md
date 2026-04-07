@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science Graduate (2025)
 - 💻 Passionate about building full-stack web applications
-- ⚙️ Working with React, Spring Boot & MySQL
+- ⚙️ React + Spring Boot + MySQL
 - 📍 Chennai, India
 
 ---
@@ -19,19 +19,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,spring,mysql" />
 </p>
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Project
 
 ### 💰 Expense Tracker (Full Stack)
-- React + Spring Boot + MySQL
-- Full CRUD operations
-- Dashboard with charts & reports
+- ⚡ React + Spring Boot + MySQL  
+- 🔄 Full CRUD operations  
+- 📊 Dashboard with charts & reports  
 
 🔗 https://github.com/TharunVijai/expense-tracker-fullstack
 
@@ -39,14 +37,17 @@
 
 ## 🚀 Live Preview
 
-### 💰 Expense Tracker UI
-![Dashboard](https://raw.githubusercontent.com/TharunVijai/expense-tracker-fullstack/main/Screenshots/dashboard.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TharunVijai/expense-tracker-fullstack/main/Screenshots/dashboard.jpeg" width="80%" />
+</p>
 
 ---
 
-### 🌐 Portfolio Website
-- Responsive UI
-- Clean design
+## 🌐 Other Project
+
+### Portfolio Website
+- Responsive UI  
+- Clean design  
 
 🔗 https://github.com/TharunVijai/portfolio-web
 
@@ -75,6 +76,10 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/TharunVijai/TharunVijai/main/dist/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TharunVijai/TharunVijai/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 <p align="center">⭐ From Tharun Vijay</p>
