@@ -38,7 +38,7 @@
 ## 🚀 Live Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TharunVijai/expense-tracker-fullstack/main/Screenshots/dashboard.jpeg" width="80%" />
+  <img src="https://raw.githubusercontent.com/TharunVijai/expense-tracker-fullstack/main/Screenshots/dashboard.jpeg" width="45%" />
 </p>
 
 ---
@@ -76,9 +76,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TharunVijai/TharunVijai/main/dist/github-contribution-grid-snake.svg" />
-</p>
+![snake](https://raw.githubusercontent.com/TharunVijai/TharunVijai/main/dist/github-contribution-grid-snake.svg)
 
 ---
 

@@ -9,7 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           github_user_name: TharunVijai
           outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated snake"
+          add: "dist/*"
