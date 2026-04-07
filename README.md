@@ -66,4 +66,8 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/TharunVijai/TharunVijai/output/github-contribution-grid-snake.svg)
+
 <p align="center">⭐ From Tharun Vijay</p>
