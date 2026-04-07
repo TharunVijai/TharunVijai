@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%2B+React+Developer;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 <h3 align="center">💻 Full Stack Developer | • Java • React • Springboot •</h3>
-<p align="center">
-  <i>Building scalable web applications with clean UI & powerful backend</i>
-</p>
 
 ---
 
