@@ -35,6 +35,10 @@
 
 🔗 https://github.com/TharunVijai/expense-tracker-fullstack
 
+## 🚀 Live Preview
+
+### 💰 Expense Tracker UI
+![Dashboard](https://raw.githubusercontent.com/TharunVijai/expense-tracker-fullstack/main/screenshots/dashboard.jpeg)
 ---
 
 ### 🌐 Portfolio Website
